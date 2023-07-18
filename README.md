@@ -1,5 +1,6 @@
 # JogoZombieDicePUCPR
 Jogo desenvolvido na matéria de Raciocínio Computacional do curso de ADS da PUCPR para conclusão do módulo.
+
 ***Projeto não finalizado***
 
 Regras do jogo: 
