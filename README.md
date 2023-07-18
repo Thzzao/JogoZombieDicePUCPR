@@ -1,7 +1,7 @@
 # JogoZombieDicePUCPR
-Matéria de Raciocínio Computacional
+Jogo desenvolvido na matéria de Raciocínio Computacional do curso de ADS da PUCPR para conclusão do módulo.
 
 Regras do jogo: 
-![1-40a1c32583](https://github.com/Thzzao/JogoZombieDicePUCPR/assets/95200381/e8cd3e83-6686-4fca-ac62-2c3bbc688a4d)
+![1686122317](https://github.com/Thzzao/JogoZombieDicePUCPR/assets/95200381/30f62774-9d25-45c4-b3de-a2e15a4faa53)
 
-Projeto não finalizado
+***Projeto não finalizado***
